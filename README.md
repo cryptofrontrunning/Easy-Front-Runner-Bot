@@ -25,7 +25,7 @@ Steps:
 
 11. Under the 'Environment' menu select Injected Web3 and connect your Meta Mask wallet
 
-12. Make sure you have Meta Mask installed on your browser (click here to download: 'https://metamask.io/download/')
+12. Make sure you have Meta Mask installed on your browser and you are connected to the Binance Smart Chain Network (MetaMask download: 'https://metamask.io/download/') (BSC Network: 'https://metamask.zendesk.com/hc/en-us/articles/4415758120219-Network-profile-Binance-Smart-Chain-BSC-BNB-')
 
 13. Press 'Deploy'
 
